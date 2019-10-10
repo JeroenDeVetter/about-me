@@ -206,6 +206,7 @@ textarea {
     }
 
     .text {
+        margin-bottom:0px; 
         display: flex;
         justify-content: center;
         max-width: 800px;
