@@ -193,7 +193,8 @@ textarea {
     body {font-size:1rem;} 
     
     a {
-        height: 50px;
+        height: 30px;
+        align-content: center;
     }
 
     h2 {
