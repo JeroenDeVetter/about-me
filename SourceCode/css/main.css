@@ -83,6 +83,12 @@ img {
     width: 200px;
 }
 
+.imgMe {
+
+    border-radius: 100%;
+
+}
+
 a {
     display: flex;
     color: black;
