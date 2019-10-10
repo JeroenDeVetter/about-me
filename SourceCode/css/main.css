@@ -90,6 +90,10 @@ img {
 
 }
 
+.container {
+    flex:1;
+}
+
 iframe {
 
     margin-top: 20px;
