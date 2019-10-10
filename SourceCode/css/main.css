@@ -194,7 +194,7 @@ textarea {
     
     a {
         height: 30px;
-        align-content: center;
+        justify-content: center;
     }
 
     h2 {
