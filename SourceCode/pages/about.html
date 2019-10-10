@@ -16,8 +16,8 @@
                         <nav>
                         <div class="menu">
                                 <a href="/SourceCode/index.html">Home</a>    
-                                <a href="#">Contact</a>
-                                <a href="about.html">About</a>
+                                <a href="contact.html">Contact</a>
+                                <a href="#">About</a>
                         </div>
                      </nav> 
                     
@@ -30,11 +30,16 @@
                         <a class="email" href="mailto:devetterjeroen@gmail.com">devetterjeroen@gmial.com </a>
                     </div>
                 
-                    <form action="https://formspree.io/email@domain.tld" method="POST">
-                        <input type="text" placeholder="Name" name="name">
-                        <input type="email" placeholder="Email" name="_replyto">
-                        <input type="submit" value="Send">
-                      </form> 
+                    <form >
+                        <div>Subject</div>
+                        <input type="text" name="subject" />
+                    
+                        <div>Message</div>
+                        <textarea name="body"></textarea>
+                    
+                        <br/>
+                        <input type="submit" value="Send" />
+                    </form>
             
         </div>
         
