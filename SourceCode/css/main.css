@@ -2,6 +2,7 @@
 body {
     position: relative;
     text-align: center;
+    color: #090909;
     font-family: 'Permanent Marker', cursive;
     background-repeat:no-repeat;
     background-attachment: fixed;
@@ -87,6 +88,16 @@ img {
 
     border-radius: 100%;
 
+}
+
+iframe {
+
+    margin-top: 20px;
+    border-radius: 20px;
+    width:400px ;
+    height:250px; 
+    border:0;
+     
 }
 
 a {
